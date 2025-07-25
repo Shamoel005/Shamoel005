@@ -6,10 +6,6 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories](https://github.com/Shamoel005?tab=repositories)
 
-- 💬 Ask me about **react,node.js etc**
-
-- 📫 How to reach me **farooquishamoel@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link](https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link)
 
 - ⚡ Fun fact **I love coding but sometimes not**
