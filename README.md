@@ -36,9 +36,10 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 ---
 [![](https://visitcount.itsvg.in/api?id=Shamoel005&icon=3&color=12)](https://visitcount.itsvg.in)
 
-## Profile Views
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shamoel005&label=Profile%20views&color=0e75b6&style=flat" alt="shamoel005" /> 
+<p align="center">
+  👀 <b>Profile Views</b><br>
+  <img src="https://komarev.com/ghpvc/?username=shamoel005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
