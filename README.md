@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
-<h3 align="center">A passionate full stack developer and AI/ML enthusiastic </h3>
+<h3 align="center">A passionate full stack developer and AI/ML enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamoel005&label=Profile%20views&color=0e75b6&style=flat" alt="shamoel005" /> </p>
 
@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-shamoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shamoel" height="30" width="40" /></a>
+<a href="https://instagram.com/shamoelfarooqui01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamoelfarooqui01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamoel_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamoel_05" height="30" width="40" /></a>
 </p>
 
