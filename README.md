@@ -2,6 +2,18 @@
 
 I am a passionate and driven Full Stack Developer with a strong foundation in web development and a growing interest in Artificial Intelligence and Machine Learning. I specialize in building scalable, responsive web applications using technologies like React, Node.js, and MongoDB. I am a quick learner, team-oriented, and always eager to take on new challenges that help me grow as a developer.<br><br>
 
+- 👯 I’m looking to collaborate on [Workers Near Me](https://github.com/Shamoel005/workers-near-me)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories](https://github.com/Shamoel005?tab=repositories)
+
+- 💬 Ask me about **react,node.js etc**
+
+- 📫 How to reach me **farooquishamoel@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link](https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link)
+
+- ⚡ Fun fact **I love coding but sometimes not**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamoelfarooqui01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shamoel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farooquishamoel@gmail.com) 
