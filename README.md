@@ -8,7 +8,7 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link](https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link)
 
-- ⚡ Fun fact **I love coding but sometimes not**
+- ⚡ Fun fact **I love coding but sometimes not **
 
 
 ## 🌐 Socials:
