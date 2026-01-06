@@ -1,57 +1,91 @@
-<h1 align="center">Hi 👋, I'm Shamoel Farooqui</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bfff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-shamoel"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/Shamoel_05"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:farooquishamoel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+
+
+I am a passionate and driven Full Stack Developer with a strong foundation in web development and a growing interest in Artificial Intelligence and Machine Learning. I specialize in building scalable, responsive web applications using technologies like React, Node.js, and MongoDB. I am a quick learner, team-oriented, and always eager to take on new challenges that help me grow as a developer.<br><br>
+
+
+
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories](https://github.com/Shamoel005?tab=repositories)
+
+
+
+- ⚡ Fun fact **I love coding but sometimes not **
+
+
+
+
+
+## 🌐 Socials:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Shamoel_05)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shamoel)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamoelfarooqui01)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farooquishamoel@gmail.com)
+
+
+
+# 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Shamoel005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Shamoel005&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamoel005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Shamoel005&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Shamoel005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 ---
 
-### 🚀 About Me
-I am a passionate **Full Stack Developer** dedicated to building scalable, user-centric web applications. Currently, I am bridging the gap between web technologies and **Artificial Intelligence** to create smarter digital experiences. 
+[![](https://visitcount.itsvg.in/api?id=Shamoel005&icon=3&color=12)](https://visitcount.itsvg.in)
 
-- 🛠️ Currently mastering **Next.js** and **Machine Learning pipelines**.
-- 📂 Exploring my work? [Check out my repositories](https://github.com/Shamoel005?tab=repositories).
-- 💡 Fun fact: I believe coding is 10% typing and 90% staring at a screen until the logic makes sense.
 
----
 
-### 💻 Tech Stack
+<h2 align="center" style="color:#00bfff;">
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | `React` `Next.js` `HTML5` `Figma` `JavaScript` |
-| **Backend** | `Node.js` `Express` `Firebase` `Java` `C` |
-| **Database** | `MongoDB` `MySQL` `Google Cloud` |
-| **AI / ML** | `Python` `NumPy` `Pandas` `TensorFlow` |
-| **Cloud/Tools** | `AWS` `Vercel` `Git` `Render` |
+  👀 Profile Views
 
----
+</h2>
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamoel005&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamoel005&theme=transparent" alt="GitHub Streak" />
+
+  <img src="https://komarev.com/ghpvc/?username=shamoel005&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamoel005&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 
----
 
-### 🏆 Recognitions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shamoel005&theme=flat&no-frame=true&column=4" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamoel005&label=PROFILE%20VIEWS&color=00bfff&style=flat-square" alt="Views" />
-</p>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
