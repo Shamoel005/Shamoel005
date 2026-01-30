@@ -5,7 +5,7 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories](https://github.com/Shamoel005?tab=repositories)
 
-- ⚡ Fun fact **I love coding but sometimes not **
+- ⚡ Fun fact **I love chess but sometimes not **
 
 
 ## 🌐 Socials:
