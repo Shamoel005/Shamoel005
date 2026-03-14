@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
+ <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
 
 I am a passionate and driven Full Stack Developer with a strong foundation in web development and a growing interest in Artificial Intelligence and Machine Learning. I specialize in building scalable, responsive web applications using technologies like React, Node.js, and MongoDB. I am a quick learner, team-oriented, and always eager to take on new challenges that help me grow as a developer.<br><br>
 
@@ -43,7 +43,7 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
 <div align="left">
 
