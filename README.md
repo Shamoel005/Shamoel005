@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link](https://drive.google.com/file/d/1d4ztWUGcgMxyeFYh84Q4FU5Dsh51MMga/view?usp=drive_link)
 
-- ⚡ Fun fact **I love coding but sometimes not**
+> ⚡ **Fun fact** — I debug for hours, fix one semicolon, and feel like a genius every time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
