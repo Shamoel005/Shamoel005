@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
+<!-- <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
 
 I am a passionate and driven Full Stack Developer with a strong foundation in web development and a growing interest in Artificial Intelligence and Machine Learning. I specialize in building scalable, responsive web applications using technologies like React, Node.js, and MongoDB. I am a quick learner, team-oriented, and always eager to take on new challenges that help me grow as a developer.<br><br>
 
@@ -43,4 +43,51 @@ I am a passionate and driven Full Stack Developer with a strong foundation in we
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+
+<div align="left">
+
+## MD Shamoel Farooqui
+**Full Stack Developer · AI/ML Enthusiast**
+
+Building scalable web apps by day, training models by night. I turn caffeine and curiosity into clean, production-ready code — React, Node.js, MongoDB, and beyond.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+`Python` `JavaScript` `Java` `C` `HTML5`
+
+**Frontend / Backend**
+`React` `Next.js` `Node.js` `MongoDB` `MySQL` `Firebase` `Context API`
+
+**AI / ML**
+`TensorFlow` `NumPy` `Pandas`
+
+**Cloud & Infra**
+`AWS` `Google Cloud` `Firebase` `Vercel` `Render` `Git` `Figma`
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shamoel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Shamoel_05)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Shamoel005)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farooquishamoel@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamoelfarooqui01)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Shamoel005&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamoel005&theme=dark&hide_border=true&layout=compact)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Shamoel005&theme=dark&hide_border=true)
+
+---
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
