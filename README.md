@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamoel005" alt="shamoel005" /></a> </p>
 
-- 🔭 I’m currently working on [nexus-ai-orchestrator](https://github.com/Shamoel005/nexus-ai-orchestrator)
+🔭 I’m currently working on [nexus-ai-orchestrator](https://github.com/Shamoel005/nexus-ai-orchestrator)
 
-- 🌱 I’m currently learning **AI/ML**
+* 🌱 I’m currently learning **AI/ML, Computer Vision & Deep Learning**
 
-- 👯 I’m looking to collaborate on [Workers Near Me](https://github.com/Shamoel005/workers-near-me)
+* 👯 I’m looking to collaborate on **AI/ML & Computer Vision projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories](https://github.com/Shamoel005?tab=repositories)
+* 👨‍💻 All of my projects are available at [https://github.com/Shamoel005?tab=repositories]
 
-- 💬 Ask me about **React,Node.js AI/ML etc**
+* 💬 Ask me about **Python, AI/ML, Computer Vision, React, Node.js etc**
 
 - 📫 How to reach me **farooquishamoel@gmail.com**
 
