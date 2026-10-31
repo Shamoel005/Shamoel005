@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
-<h3 align="center">A passionate full stack and App Developer from India</h3>
+<h3 align="center">A passionate Full stack and App Developer from India</h3>
 
 * 🌱 I’m currently learning **AI/ML, Computer Vision & Deep Learning & app development**
 
