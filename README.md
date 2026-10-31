@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD SHAMOEL FAROOQUI</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-🔭 I’m currently working on [nexus-ai-orchestrator](https://github.com/Shamoel005/nexus-ai-orchestrator)
-
 * 🌱 I’m currently learning **AI/ML, Computer Vision & Deep Learning**
 
 * 👯 I’m looking to collaborate on **AI/ML & Computer Vision projects**
